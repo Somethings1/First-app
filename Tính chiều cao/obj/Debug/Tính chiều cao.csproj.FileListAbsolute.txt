@@ -1,0 +1,9 @@
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\bin\Debug\Tính chiều cao.exe.config
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\bin\Debug\Tính chiều cao.exe
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\bin\Debug\Tính chiều cao.pdb
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\obj\Debug\Tính chiều cao.csprojResolveAssemblyReference.cache
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\obj\Debug\Tính_chiều_cao.Form1.resources
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\obj\Debug\Tính_chiều_cao.Properties.Resources.resources
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\obj\Debug\Tính chiều cao.csproj.GenerateResource.Cache
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\obj\Debug\Tính chiều cao.exe
+i:\Tai lieu cua toi\Visual Studio 2012\Projects\Tính chiều cao\Tính chiều cao\obj\Debug\Tính chiều cao.pdb
